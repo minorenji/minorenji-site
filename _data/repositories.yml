@@ -2,4 +2,7 @@ github_users:
   - minorenji
 
 github_repos:
-  - minorenji/ostomate_app
+  - minorenji/mun-site
+  - minorenji/satirical-news-detection
+  - minorenji/RiotApiExploration
+  - minorenji/SocionicsTest
