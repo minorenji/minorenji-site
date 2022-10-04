@@ -11,7 +11,7 @@ img: /assets/img/stoma_image_annotated.jpg
 Currently, Ostomate is operating out of the UW [Remote Hub Lab](https://rhlab.ece.uw.edu/), of which I am a member. As a part of the technical team, I have been responsible for many aspects related to our mobile application, including development of the app and setting up the backend.
 
 ## the frontend
-The mobile application is being developed in the Flutter language which is maintained by Google. The main advantage of Flutter is that it allows for Android and iOS versions from the same codebase.
+The mobile application is being developed in the Flutter language which is maintained by Google. The main advantage of Flutter is that it allows for Android and iOS versions deployed from the same codebase.
 
 Being a relatively unpopular language, I found that there was not as much content about it compared to something like Swift or React. However, I was still able to find a couple tutorials on Youtube and along with the docs, was able to teach myself as I implemented features for our app.
 
@@ -33,4 +33,10 @@ Even though I said the backend was more confusing to setup, the actual heavy-lif
 
 ## future steps
 The main objective is to continue adding CRUD functionality, and integrate the actual stoma scanning functionality into the app.
+
+## screenshots
+{% include figure.html path="assets/img/ostomate-ss-1.png" title="app-screenshot-1" class="img-fluid rounded z-depth-1" width="40%"%}
+The main login screen for the Ostomate app.
+{% include figure.html path="assets/img/ostomate-ss-2.png" title="app-screenshot-1" class="img-fluid rounded z-depth-1" width="40%" %}
+The signup screen for the Ostomate app.
 
