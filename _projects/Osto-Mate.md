@@ -39,4 +39,6 @@ The main objective is to continue adding CRUD functionality, and integrate the a
 The main login screen for the Ostomate app.
 {% include figure.html path="assets/img/ostomate-ss-2.png" title="app-screenshot-1" class="img-fluid rounded z-depth-1" width="40%" %}
 The signup screen for the Ostomate app.
+{% include figure.html path="assets/img/dashboard.png" title="app-screenshot-1" class="img-fluid rounded z-depth-1" width="40%" %}
+The dashboard menu for the Ostomate app.
 

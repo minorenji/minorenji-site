@@ -2,7 +2,9 @@ github_users:
   - minorenji
 
 github_repos:
+  - Osto-Mate/ostomate_app
   - minorenji/mun-site
   - minorenji/satirical-news-detection
   - minorenji/RiotApiExploration
   - minorenji/SocionicsTest
+
