@@ -5,6 +5,7 @@ description: an app for ostomy patients
 img: /assets/img/stoma_image_annotated.jpg
 ---
 
+**2023 Update:** We have transitioned away from a Stoma care approach to providing scanning for chronic wound patients.
 
 >  Ostomate aims to provide a better technological solution for stoma management. This technology aims to solve stoma care issues patients currently have such as leakage, significant bleeding, pain, anxiety, changes in weight and dependance on caregivers. Ostomate aim to solve such issues with a 3D profile of the stoma so patients can measure their ostomies with high accuracy and have their ostomy supplies be cut to the correct fit.  
 
