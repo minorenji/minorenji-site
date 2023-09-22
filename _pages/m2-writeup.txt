@@ -1,0 +1,15 @@
+The 3 standard reflection questions, but specific to your experience with M2:
+What is one thing that you learned while doing M2?
+Designing good test cases is difficult.
+
+What is one thing that surprised you while doing M2?
+How Java can be used to design an API.
+
+What is one question that you still have after doing M2?
+Are there designated patterns in the industry for designing an API?
+
+Were you able to make any progress on your “one question I still have” from M1?  If so, please describe how it happened (eg, did you stumble upon the answer, did it come up in lecture, did you read about it yourself, etc).  If you did not, describe how you might find an answer to it.
+I read the answer in the documentation.
+
+Recall the programmer/manager/employee problem from Quiz 2: we stated that all employees had a manager but ignored the company’s CEO, who is the only employee who doesn’t have a manager.  Now that you’ve seen how to use Java code to add additional verifications on data that’s saved into a database, how would you represent the CEO in that schema?  Specifically, would you make the manager field NULLable or would you create a special “THIS IS NOT A REAL MANAGER” manager for the CEO?
+I would create a fake manager for the CEO that the Java code can parse.
